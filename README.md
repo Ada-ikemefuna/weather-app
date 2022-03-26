@@ -1,5 +1,3 @@
-https://harmonious-starburst-502eca.netlify.app/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
