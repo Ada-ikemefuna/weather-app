@@ -55,7 +55,10 @@ input{
   font-size: 2rem;
 }
 
-
+.err{
+  color: #f8f8f8;
+  font-size: 2rem;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
